@@ -1,8 +1,8 @@
 {
     "name": "Stellar Editor - Core",
-    "rootNamespace": "StellarEditor",
+    "rootNamespace": "StellarEditor",    
     "references": [
-        "GUID:edede63086752af45b23ee5f6d817102"
+        "Stellar Wolf - Core"
     ],
     "includePlatforms": [
         "Editor"
