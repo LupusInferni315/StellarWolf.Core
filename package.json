@@ -17,5 +17,9 @@
         "Types",
         "Random",
         "Weighted Random"
-    ]
+    ],
+    "changelogUrl": "https://github.com/LupusInferni315/StellarWolf.Core/blob/main/CHANGELOG.MD",
+    "documentationUrl": "https://github.com/LupusInferni315/StellarWolf.Core/blob/main/README.MD",
+    "licensesUrl": "https://github.com/LupusInferni315/StellarWolf.Core/blob/main/LICENSE.MD",
+    "repository": "https://github.com/LupusInferni315/StellarWolf.Core/"
 }
