@@ -1,6 +1,6 @@
 {
     "name": "ca.stellarwolf.core",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "displayName": "Stellar Wolf - Core",
     "description": "A collection of APIs and classes that make up the core of the Stellar Engine.",
     "unity": "2021.3",
