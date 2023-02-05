@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("StellarWolf.Core")]
 [assembly: AssemblyDescription("Core collection of Stellar Engine")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Stellar Wofl")]
+[assembly: AssemblyCompany("Stellar Wolf")]
 [assembly: AssemblyProduct("StellarWolf.Core")]
 [assembly: AssemblyCopyright("Copyright © Stellar Wolf 2023")]
 
