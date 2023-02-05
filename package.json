@@ -1,0 +1,21 @@
+{
+    "name": "ca.stellarwolf.core",
+    "version": "0.0.1",
+    "displayName": "Stellar Wolf - Core",
+    "description": "A collection of APIs and classes that make up the core of the Stellar Engine.",
+    "unity": "2021.3",
+    "unityRelease": "17f1",
+    "author": {
+        "name": "LupusInferni",
+        "email": "jdoonan61@gmail.com",
+        "url": "https://github.com/LupusInferni315"
+    },
+    "category": "StellarWolf",
+    "license": "CC-BY-SA-4.0",
+    "hideInEditor": false,
+    "keywords": [
+        "Types",
+        "Random",
+        "Weighted Random"
+    ]
+}
